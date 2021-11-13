@@ -1,2 +1,10 @@
 # Python - CursoemVídeo
-Exercícios realizados durante o curso de Python do Professor Gustavo Guanabara - Curso em Vídeo. Foram 120 horas de aulas iniciadas em março 2021 e finalizadas em  4 de junho de 2021
+Exercícios realizados durante o curso de Python do Professor Gustavo Guanabara
+
+Conteúdos do Mundo 1:
+- Introdução à programação;
+- Primeiros passos com Python;
+- Tratando dados e fazendo contas;
+- Usando módulos no Python;
+- Condições em Python (If e else);
+- Adicionando cores ao Python;
